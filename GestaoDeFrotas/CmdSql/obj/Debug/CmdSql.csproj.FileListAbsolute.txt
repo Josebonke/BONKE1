@@ -1,0 +1,5 @@
+C:\Users\DELL\Source\Repos\GestaoDeFrotas\CmdSql\bin\Debug\CmdSql.dll
+C:\Users\DELL\Source\Repos\GestaoDeFrotas\CmdSql\bin\Debug\CmdSql.pdb
+C:\Users\DELL\Source\Repos\GestaoDeFrotas\CmdSql\obj\Debug\CmdSql.csprojAssemblyReference.cache
+C:\Users\DELL\Source\Repos\GestaoDeFrotas\CmdSql\obj\Debug\CmdSql.dll
+C:\Users\DELL\Source\Repos\GestaoDeFrotas\CmdSql\obj\Debug\CmdSql.pdb

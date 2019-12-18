@@ -1,0 +1,11 @@
+C:\Users\DELL\Source\Repos\GestaoDeFrotas\bin\Debug\GestaoDeFrotas.exe.config
+C:\Users\DELL\Source\Repos\GestaoDeFrotas\bin\Debug\GestaoDeFrotas.exe
+C:\Users\DELL\Source\Repos\GestaoDeFrotas\bin\Debug\GestaoDeFrotas.pdb
+C:\Users\DELL\Source\Repos\GestaoDeFrotas\obj\Debug\GestaoDeFrotas.Form1.resources
+C:\Users\DELL\Source\Repos\GestaoDeFrotas\obj\Debug\GestaoDeFrotas.Properties.Resources.resources
+C:\Users\DELL\Source\Repos\GestaoDeFrotas\obj\Debug\GestaoDeFrotas.csproj.GenerateResource.cache
+C:\Users\DELL\Source\Repos\GestaoDeFrotas\obj\Debug\GestaoDeFrotas.exe
+C:\Users\DELL\Source\Repos\GestaoDeFrotas\obj\Debug\GestaoDeFrotas.pdb
+C:\Users\DELL\Source\Repos\GestaoDeFrotas\obj\Debug\GestaoDeFrotas.Login.resources
+C:\Users\DELL\Source\Repos\GestaoDeFrotas\obj\Debug\GestaoDeFrotas.Cad_Usu.resources
+C:\Users\DELL\Source\Repos\GestaoDeFrotas\obj\Debug\GestaoDeFrotas.csprojAssemblyReference.cache
