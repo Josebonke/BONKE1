@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestaoDeFrotas", "GestaoDeFrotas.csproj", "{76FDACEF-C6BE-42DF-ADE9-33958846DDB7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup3", "..\Setup3\Setup3.vdproj", "{CAA8CECA-4CE8-4F2E-BF1C-8F7136D656A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76FDACEF-C6BE-42DF-ADE9-33958846DDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FDACEF-C6BE-42DF-ADE9-33958846DDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FDACEF-C6BE-42DF-ADE9-33958846DDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FDACEF-C6BE-42DF-ADE9-33958846DDB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA8CECA-4CE8-4F2E-BF1C-8F7136D656A5}.Debug|Any CPU.ActiveCfg = Debug
+		{CAA8CECA-4CE8-4F2E-BF1C-8F7136D656A5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5E47097-E03C-415D-83DD-8A301A4C3162}
+	EndGlobalSection
+EndGlobal
